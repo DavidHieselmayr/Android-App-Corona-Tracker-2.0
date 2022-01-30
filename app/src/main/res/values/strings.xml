@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Test02</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string-array name="office">
+        <item>Linz-Stadtplatz</item>
+        <item>Leonding-Meixnerkreuzung</item>
+        <item>Parkplatz-Haid</item>
+    </string-array>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
